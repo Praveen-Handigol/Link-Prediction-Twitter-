@@ -6,8 +6,8 @@ Contributers - Aayushi Kochar, Harini Vemuri, Praveen Prasad Handigol
 
 Please read the .pdf file to undertsand more about the features, models used and performance metrics.
 
-Kaggle Competition link - https://www.kaggle.com/competitions/cp318-link-prediction/overview
-Check the leaderboard for final accuracy score.
+Kaggle Competition link - https://www.kaggle.com/competitions/cp318-link-prediction/leaderboard
+Check the leaderboard (Path Finders) for final accuracy score.
 
 Rank: 3rd 
 
