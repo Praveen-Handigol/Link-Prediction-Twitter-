@@ -1,6 +1,6 @@
 # Link-Prediction-Twitter-
 
-Please read the .pdf file to undertsand more about the features
+Please read the .pdf file to undertsand more about the features, models used and performance metrics.
 
 Kaggle Competition link - https://www.kaggle.com/competitions/cp318-link-prediction/overview
 
